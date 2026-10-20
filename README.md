@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi there! 👋
 
-<!--
-**tania-2003/tania-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Chemical Engineering student at California State University, Long Beach (CSULB), with an interest in environmental engineering and exploring opportunities across different engineering disciplines.
 
-Here are some ideas to get you started:
+I'm passionate about learning, developing new technical skills, and applying engineering concepts to real-world challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱**About Me**
+
+🎓 Studying Chemical Engineering at CSULB
+
+📸 Historian for the American Institute of Chemical Engineers (AIChE) student chapter
+
+🌎 Interested in environmental engineering and interdisciplinary applications
+
+📊 Developing skills in data analysis, technical problem-solving, and laboratory techniques
+
+💻 Exploring programming and its applications in engineering
+
+📂 **Academic Work & Projects**
+
+I'm currently building my portfolio to showcase engineering coursework, laboratory reports, data analysis, and future projects.
+
+🔗 **Connect With Me**
+
+LinkedIn: www.linkedin.com/in/taniariley3
